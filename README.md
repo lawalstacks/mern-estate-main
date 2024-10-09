@@ -34,7 +34,7 @@ Installation
 
 1. Clone the repository:
 
-git clone https://github.com/username/real-estate-platform.git
+git clone https://github.com/lawalstacks/mern-stack-main.git
 
 
 2. Install server dependencies:
